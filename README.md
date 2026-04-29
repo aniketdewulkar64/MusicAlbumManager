@@ -13,7 +13,9 @@
 
 | | | |
 | :---: | :---: | :---: |
-| ![Screen 1](https://via.placeholder.com/800x450?text=Home+Dashboard) | ![Screen 2](https://via.placeholder.com/800x450?text=Music+Player) | ![Screen 3](https://via.placeholder.com/800x450?text=Creator+Studio) |
+| ![Screen 1]()![Uploading image.png…]()
+![Uploading image.png…]()
+ | ![Screen 2](https://via.placeholder.com/800x450?text=Music+Player) | ![Screen 3](https://via.placeholder.com/800x450?text=Creator+Studio) |
 | ![Screen 4](https://via.placeholder.com/800x450?text=Fullscreen+Player) | ![Screen 5](https://via.placeholder.com/800x450?text=Album+Details) | ![Screen 6](https://via.placeholder.com/800x450?text=Admin+Dashboard) |
 | | ![Screen 7](https://via.placeholder.com/800x450?text=Mobile+Experience) | |
 
